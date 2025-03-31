@@ -24,8 +24,9 @@ Advanced API Discovery Tool for Security Researchers
 - Fake user-agent rotation
 - URL normalization
 
-### 📢 Resmi İletişim
 <div align="center">
+  
+### Contact 
 [![Telegram Channel](https://img.shields.io/badge/SWARE_HACK_TEAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/swarehackteam)
 
 </div>
