@@ -5,7 +5,7 @@ Advanced API Discovery Tool for Security Researchers
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-![Banner](https://hizliresim.com/csfjwdp)
+![Banner](https://resmim.net/cdn/2025/03/31/N0Zq0o.jpg)
 
 ## Features
 
