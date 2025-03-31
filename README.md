@@ -24,15 +24,14 @@ Advanced API Discovery Tool for Security Researchers
 - Fake user-agent rotation
 - URL normalization
 
+### 📢 Resmi İletişim
+<div align="center">
+[![Telegram Channel](https://img.shields.io/badge/SWARE_HACK_TEAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/swarehackteam)
+
+</div>
+
+
 ## Installation
 
 ```bash
-pip install -r requirements.txt```
-
-python3 sware-api-finder.py```
-
-
-<div align="center">
-### 📢 Resmi İletişim
-[![Telegram Channel](https://img.shields.io/badge/SWARE_HACK_TEAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/swarehackteam)
-</div>
+git clone https://github.com/spyizxa/Sware-API-Finder && cd Sware-API-Finder && pip install -r requirements.txt && python3 sware-api-finder.py
