@@ -27,14 +27,7 @@ Advanced API Discovery Tool for Security Researchers
 ## 📦 Installation
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ```bash
-python3 sware-api-finder.py
-
-<div align="center">
-  
-### 📢 Resmi İletişim
-[![Telegram Channel](https://img.shields.io/badge/SWARE_HACK_TEAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/swarehackteam)
-| [@spyizxa](https://t.me/spyizxa)
-</div>
+python3 sware-api-finder.py```
